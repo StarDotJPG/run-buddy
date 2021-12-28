@@ -265,6 +265,10 @@ section {
   color: #fce138;
 }
 
+.contact-info {
+  display: flex;
+}
+
 .contact-info iframe {
   height: 400px;
   display: flex;
