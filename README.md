@@ -8,7 +8,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-https://stardogjpg.github.io/run-buddy
+https://stardotjpg.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Jason Greenia
